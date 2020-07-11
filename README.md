@@ -9,10 +9,12 @@ This code is developed in
 MATLAB R2017b
 ```
 ### Dataset
-We used ten different datasets for Link Prediction Task and three datasets for Node Classification. The dataset names are:
-- Power
-- C.elegans
-- USAir
+We used five different datasets for evaluation. The dataset names are:
+- Chessboard
+- Kamaishi
+- Desktop
+- Parking
+- Table
 
 ### Usage
 1. To run end to end matching model to generate results for "Desktop" dataset, do the following:
