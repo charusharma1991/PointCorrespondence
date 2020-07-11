@@ -18,7 +18,7 @@ end2end.m
 ```
 main.m
 ```
-This will generate results for our method (our_spherical, our_conical and our_ellipsoidal) presented in Table 2 and 3 in main paper. The results would be generated in the output files.
+This will generate results for our method (our_spherical, our_conical and our_ellipsoidal). The results would be generated in the output files.
 
 
 
