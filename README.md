@@ -1,9 +1,15 @@
-#Simplicial Complex based Point Correspondence between Images warped onto Manifolds
+# Simplicial Complex based Point Correspondence between Images warped onto Manifolds
+
+# About
 This is a source code of paper titled "Simplicial Complex based Point Correspondence between Images warped onto Manifolds" accepted at ECCV 2020. This solves assignment problem using higher order structures between images warped onto manifolds.
 
-Code is developed in MATLAB R2017b
+# Installation
+This code is developed in 
+```
+MATLAB R2017b
+```
 
-#Usage
+# Usage
 1. To run end to end matching model to generate results for "Desktop" dataset, do the following:
 ```
 end2end.m
